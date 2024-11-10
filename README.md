@@ -92,5 +92,5 @@ Tag Count: 2
 Feel free to fork the repository and submit pull requests for improvements or additional features.
 
 ## License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the MIT [LICENSE](LICENSE).
 
