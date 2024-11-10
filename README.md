@@ -74,10 +74,9 @@ Example:
 Enter your choice: 1
 
 Enter URL: https://example.com
+Press 0 to stop adding tags
 Add tag: tutorial
 Add tag: C_programming
-Press 0 to stop adding tags
-Add tag: 0
 
 1. Add Link
 2. Display Links
