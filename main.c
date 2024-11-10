@@ -75,6 +75,10 @@ void displayLinks(Link* links, int count) {
         }
         printf("\n");
     }
+
+    char answer[12];
+    printf("continue: ");
+    scanf(" %11s", answer);
 }
 
 void SaveFileWriter(Link* links, int count) {
@@ -186,6 +190,7 @@ int main() {
                         searchTags(links, count);
                         break;
                 }
+            break;
         }
     }
 }
