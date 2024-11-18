@@ -91,6 +91,9 @@ Tag Count: 2
 ## Contributing
 Feel free to fork the repository and submit pull requests for improvements or additional features.
 
+## Contributing
+Feel free to fork this repository and make improvements. Open issues or pull requests if you'd like to contribute to the development of this interactive showcase.
+
 ## License
 This project is open-source and available under the MIT [LICENSE](LICENSE).
 
