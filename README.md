@@ -39,7 +39,7 @@ The program displays a main menu with the following options:
 - On startup, `links.txt` is loaded if it exists, allowing continuity across sessions.
 
 ## File Structure
-The links and tags are stored in links.txt in a human-readable format. Each link entry includes:
+The links and tags are stored in 'links.txt' in a human-readable format. Each link entry includes:
 
 - `ID`: The unique identifier for each link.
 - `URL`: The URL of the link.
